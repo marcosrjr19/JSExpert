@@ -1,0 +1,23 @@
+[
+    {
+        "id": "a448b6eb-61f2-4d43-aafa-235baf9acc13",
+        "name": "Cruze",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "e9d2d290-0315-4131-ba5c-90b3f074be9b",
+        "name": "Golf",
+        "releaseYear": 2021,
+        "available": true,
+        "gasAvailable": true
+    },
+    {
+        "id": "8fd0945b-d401-4022-af43-8307623cf5ea",
+        "name": "Mustang",
+        "releaseYear": 2020,
+        "available": true,
+        "gasAvailable": true
+    }
+]
